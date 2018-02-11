@@ -15,3 +15,6 @@ This individual project is meant to test the skills we have acquired in the firs
 * On the tab that says Download or Clone select the download option and save to a folder that is easily accessible...
 * After this unzip the file and voilà, the entire repo is on your computer
 * Open the index.html file and it should be opened in your web browser
+
+---
+***You could also just visit the website to view my Portfolio [here](https://ramza007.github.io/ramza-/)***

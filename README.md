@@ -18,3 +18,7 @@ This individual project is meant to test the skills we have acquired in the firs
 
 ---
 ***You could also just visit the website to view my Portfolio [here](https://ramza007.github.io/ramza-/)***
+
+---
+
+Licencing and copyright have been provided by MIT and is found [here](https://github.com/ramza007/ramza-/blob/master/LICENSE)

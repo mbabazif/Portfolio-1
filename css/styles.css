@@ -11,3 +11,9 @@ p {
     font-family: times-new-roman;
     font-size: 18px;
 }
+
+.jumbotron {
+  border-left: 4px solid #13d6a8;
+  border-right: 4px solid #13d6a8;
+  border-bottom: 1px solid #13d6a8;
+}

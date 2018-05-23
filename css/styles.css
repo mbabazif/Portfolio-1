@@ -21,12 +21,14 @@ h1{
     text-align: center;
     font-size: 50px;
     font-family: 'Monoton', cursive;
+    /* font-family: 'Cabin Sketch', cursive; */
+
     margin: 7%;
 }
 
 .container{
     background-color: #afbacc;
-    margin-top: 2%;
+    margin-top: 5%;
     /* text-align: center; */
     padding: 5%;
     border-radius: 20px;

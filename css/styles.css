@@ -1,20 +1,38 @@
-body {
-    background-color: #13d6a8;
+body{
+    background-image: url('/images/wall.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
 }
 
-h1 {
-    color: black;
-    text-align: centre;
-    p style="font-size:20px"
+.container-fluid{
+    background-color: blue;
+    padding: 5%;
+    opacity: 0.6;
+    border-radius: 20px;
+    margin-top: 1%;
 }
 
-p {
-    font-family: times-new-roman;
-    font-size: 18px;
+.card{
+    border-radius: 20px;
 }
 
-.jumbotron {
-  border-left: 4px solid #13d6a8;
-  border-right: 4px solid #13d6a8;
-  border-bottom: 1px solid #13d6a8;
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 7%;
+}
+
+.container{
+    background-color: #afbacc;
+    margin-top: 2%;
+    /* text-align: center; */
+    padding: 5%;
+    border-radius: 20px;
+}
+
+h3, h2{
+    text-align: center;
 }

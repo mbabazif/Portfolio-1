@@ -1,9 +1,7 @@
 body{
     background-image: url('/images/wall.jpg');
 }
-.container-fluid{
-    
-}
+
 .container{
     padding: 20%;
     text-align: center;

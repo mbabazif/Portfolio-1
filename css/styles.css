@@ -1,6 +1,6 @@
 body{
     background-image: url('/images/wall.jpg');
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-attachment: fixed;
     font-family: 'Courier New', Courier, monospace;
     font-size: 12px;

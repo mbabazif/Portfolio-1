@@ -1,5 +1,5 @@
 body{
-    background-image: url('/images/wall.jpg');
+    background-image: url('../images/wall.jpg');
     /* background-repeat: no-repeat; */
     background-attachment: fixed;
     font-family: 'Courier New', Courier, monospace;
@@ -44,7 +44,7 @@ h3, h2{
 }
 
 .container1{
-    background-image: url('/images/IMG_2768.JPG');
+    background-image: url('../images/IMG_2768.JPG');
     padding: 30%;
     padding-left: 5%;
     padding-right: 5%;

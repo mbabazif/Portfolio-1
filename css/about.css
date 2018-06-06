@@ -37,7 +37,7 @@ h3, h2{
 
 .sparks{
     padding: 1%;
-    /* padding-bottom: 30%; */
+    /* padding-bottom: 3%; */
     background-color: black;
     opacity: 0.8; 
     border-radius: 20px;
@@ -110,6 +110,6 @@ h3, h2{
 .scrollz{
   /* background-color: black; */
   text-align: center;
-  padding-top: 15%;
+  padding-top: 20%;
 }
 

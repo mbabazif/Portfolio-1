@@ -2,7 +2,6 @@
 
 ### By **Ramza Reseni**, 
 #### Published date **24/05/18**
- ---
 
 
 ## Description
@@ -19,7 +18,6 @@ My Portfolio that displays my projects and my information for display to my inte
 ### Acknowledgements
 
 - [Edwin Walela](https://github.com/EdwinWalela)
-- [James Muriuki](https://github.com/mbuthiya)
 - Moringa School
 - Stack Overflow
 - Google

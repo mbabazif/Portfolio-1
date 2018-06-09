@@ -29,9 +29,8 @@ h1{
 .container{
     background-color: #afbacc;
     margin-top: 6%;
-    /* text-align: center; */
     padding: 5%;
-    border-radius: 20px;
+    border-radius: 15px;
     opacity: 0.9;
 }
 

@@ -30,6 +30,13 @@ body{
     margin-bottom: 10%;
     margin-top: 10%;
 }
+.skills{
+
+    text-align: left;
+    margin-bottom: 20%;
+    margin-top: 10%;
+    
+}
 
 h3, h2{
     text-decoration: underline;

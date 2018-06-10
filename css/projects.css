@@ -1,8 +1,9 @@
 body{
     background-image: url('../images/wall.jpg');
-    font-family: 'Courier New', Courier, monospace;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Poor Story', cursive;
     background-attachment: fixed;
-    font-size: 12px;
+    /* font-size: 22px; */
 }
 
 .container{
@@ -14,6 +15,8 @@ body{
     border-radius: 20px;
     color: white;
     opacity: 0.9;
+    font-size: 22px;
+
 }
 
 .detail{

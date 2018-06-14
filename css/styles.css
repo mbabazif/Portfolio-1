@@ -3,7 +3,7 @@ body{
     /* background-repeat: no-repeat; */
     background-attachment: fixed;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 12px;
+    font-size: 14px;
     padding-bottom: 2%;
 }
 
@@ -29,9 +29,9 @@ h1{
 .container{
     background-color: #afbacc;
     margin-top: 6%;
-    /* text-align: center; */
     padding: 5%;
-    border-radius: 20px;
+    border-radius: 15px;
+    opacity: 0.9;
 }
 
 h3, h2{
@@ -44,14 +44,19 @@ h3, h2{
 }
 
 .container1{
-    background-image: url('../images/IMG_2768.JPG');
+    background-image: url('../images/meee.JPG');
     padding: 30%;
     padding-left: 5%;
     padding-right: 5%;
     background-attachment: fixed;
     background-size: cover;
+    /* background-size: 300px 100px; */
     background-repeat: no-repeat;
-    text-align: center;
     margin-top: -12.5%;
+    text-align: center;
     border-radius: 20px;
 }
+
+/* .desc{
+    color: blue;
+} */

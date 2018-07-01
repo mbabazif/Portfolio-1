@@ -6,12 +6,13 @@
 
 ## Description
 
-My Portfolio that displays my projects and my information for display to my interviewers
+My Personal Portfolio that shows my projects and hobbies.
 
 
 ## Technologies Used
 - HTML ( **ver 4** )
-- Bootstrap ( **ver 3** )
+- CSS (**ver 3**)
+- Bootstrap
 - JavaScript
 
 

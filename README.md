@@ -6,7 +6,7 @@
 
 ## Description
 
-My Personal Portfolio that shows my projects and hobbies.
+My Personal Portfolio that shows my projects and interests.
 
 
 ## Technologies Used

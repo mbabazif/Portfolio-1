@@ -19,6 +19,7 @@ My Personal Portfolio that shows my projects and hobbies.
 ### Acknowledgements
 
 - [Edwin Walela](https://github.com/EdwinWalela)
+- David Theuri (Images)
 - Moringa School
 - Stack Overflow
 - Google
